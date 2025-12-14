@@ -1,0 +1,17 @@
+{
+  "name": "@provider-onboarding/shared",
+  "version": "1.0.0",
+  "description": "Tipos e schemas compartilhados",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
