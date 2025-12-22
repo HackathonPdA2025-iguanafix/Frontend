@@ -155,11 +155,11 @@ npm run dev
 
 | Nome             | Função              |
 |------------------|---------------------|
-| [Grazielle Nascimento Ferreira](https://github.com/GrazielleNascimento) | Colaborador/a |
-| [Ingrid Oliveira](https://github.com/iingridliveira)        | Colaborador/a |
 | [Samuel Ribeiro](https://github.com/Samuel-Kepler) | Líder     |
 | [Jerônimo S. Rodrigues](https://github.com/JeronimoSantos)    | Colaborador/a |
 | [Débora](https://www.linkedin.com/in/debora-vitoria) | Colaborador/a |
+| [Ingrid Oliveira](https://github.com/iingridliveira)        | Colaborador/a |
+| [Grazielle Nascimento Ferreira](https://github.com/GrazielleNascimento) | Colaborador/a |
 
 
 
