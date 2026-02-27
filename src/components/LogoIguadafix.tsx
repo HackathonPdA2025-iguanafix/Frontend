@@ -2,6 +2,6 @@ import Link from "next/link";
 
 export default function LogoIguanafix() {
     return (
-        <img className='text-center p-16' src="/Logo.png" alt="Logo tipo da Empresa"/>
+        <img  src="/Logo.png"  style={{width:"170px", height:"40px"}} alt="Logo tipo da Empresa" />
     )
 }

@@ -11,18 +11,19 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
+    "@hookform/resolvers": "^3.3.4",
+    "@provider-onboarding/shared": "*",
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.6.2",
+    "lucide-react": "^0.575.0",
+    "next": "^14.0.0",
+    "postcss": "^8.4.32",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "next": "^14.0.0",
-    "typescript": "^5.3.3",
-    "@provider-onboarding/shared": "*",
-    "axios": "^1.6.2",
-    "zod": "^4.1.12",
     "react-hook-form": "^7.48.0",
-    "@hookform/resolvers": "^3.3.4",
     "tailwindcss": "^3.3.6",
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32"
+    "typescript": "^5.3.3",
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@types/node": "^20.10.5",
